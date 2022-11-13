@@ -136,6 +136,12 @@ var radio = new Radio([
     howl: null
   },
   {
+    freq: '81.4',
+    title: "BBC Radio 5",
+    src: 'https://stream.live.vc.bbcmedia.co.uk/bbc_radio_five_live_online_nonuk',
+    howl: null
+  },
+  {
     freq: '89.9',
     title: "Hip Hop Hits",
     src: 'https://streaming.radio.co/s97881c7e0/listen',
